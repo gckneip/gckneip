@@ -8,11 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ITLab Software Ltda**
+ 🔭 I’m currently working on **[ITLab Software Ltda](https://www.itlab.com.br)**
  
  🌱 I’m currently learning **Computer Science in [Pelota's Federal university](https://portal.ufpel.edu.br/)**
 
-💬 If you ever wish to work with me, **feel free to send me an [e-mail](mailto:gckneip@inf.ufpel.edu.br)**
+ 📌 I'm currently living in **Pelotas, RS - Brazil**
+
+📧 If you ever wish to work with me, **feel free to send me an [e-mail](mailto:gckneip@inf.ufpel.edu.br)**
 
 ⚡ **May the force be with you** ⚡
 
