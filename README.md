@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gustavo+Cunha!;" />
 </h1>
 
-<h3 align="center">Welcome to my Github!</h3>
+<h3 align="center">Welcome to my GitHub!</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **[ITLab Software Ltda](https://www.itlab.com.br)**
+ 🔭 I’m currently working at **[ITLab Software Ltda](https://www.itlab.com.br)**
  
  🌱 I’m currently learning **Computer Science in [Pelota's Federal university](https://portal.ufpel.edu.br/)**
 
