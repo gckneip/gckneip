@@ -1,11 +1,11 @@
-<h1 align="center">
+|<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gustavo+Cunha!;" />
 </h1>
 
 <h3 align="center">Welcome to my GitHub!</h3>
 
 <br/>
-
+|
 <div align="center">
  
  🔭 I’m currently working at **[ITLab Software Ltda](https://www.itlab.com.br)**
@@ -16,8 +16,6 @@
 
 📧 If you ever wish to work with me, **feel free to send me an [e-mail](mailto:gckneip@inf.ufpel.edu.br)**
 
-⚡ **May the force be with you** ⚡
-
  </div>
  
 <div align="center"> 
@@ -27,7 +25,7 @@
   <a href="https://www.instagram.com/_cunhak/" target="_blank">
      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
   </a> 
-  <a href="https://discord.com/channels/@me/488185313559314442"target="_blank">
+  <a href="https://discord.com/users/183691289655508993" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
 
@@ -69,4 +67,5 @@
 <br/><br/>
 
 <hr/>
+that's it .-.
 
