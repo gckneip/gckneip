@@ -68,4 +68,7 @@
 
 <hr/>
 
-<h2 align="center">that's it :)</h2>
+<div align=center>
+    <h2>🐈‍⬛ The End! 🐈‍⬛</h2>
+    <img width=500 src="cat.gif" alt="streak stats"/>
+</div>
