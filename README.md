@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gustavo+Cunha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7387AF&lines=Hi+There!+👋;+I'm+Gustavo+Cunha!;" />
 </h1>
 
 <h3 align="center">Welcome to my GitHub!</h3>
@@ -70,7 +70,7 @@
 
 <div align=center>
     <h2>🐈‍⬛ The End! 🐈‍⬛</h2>
-    <a href="https://www.youtube.com/watch?v=sR6tjNq8Ywk">
+    <a href="https://www.youtube.com/watch?v=eeFbKDrLOUw">
         <img width=500 src="cat.gif" alt="streak stats"/>
     </a>
 </div>
