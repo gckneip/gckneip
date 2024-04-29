@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7387AF&lines=Hi+There!+👋;+I'm+Gustavo+Cunha!;" />
+    <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7387AF&lines=Hello+There!+👋;+I'm+Gustavo+Cunha!;" />
+    </a>
 </h1>
 
 <h3 align="center">Welcome to my GitHub!</h3>
