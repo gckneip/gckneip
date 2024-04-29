@@ -70,5 +70,7 @@
 
 <div align=center>
     <h2>🐈‍⬛ The End! 🐈‍⬛</h2>
-    <img width=500 src="cat.gif" alt="streak stats"/>
+    <a href="https://www.youtube.com/watch?v=sR6tjNq8Ywk">
+        <img width=500 src="cat.gif" alt="streak stats"/>
+    </a>
 </div>
