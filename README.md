@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">
+    <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7387AF&lines=Hello+There!+👋;+I'm+Gustavo+Cunha!;" />
     </a>
 </h1>
