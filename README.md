@@ -66,7 +66,7 @@
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gckneip&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 <hr/>
-<h2 align="center">🐒 MonkeyType🐒</h2>
+<h2 align="center">🐒 MonkeyType 🐒</h2>
 <br>
 <div align=center>
     <a href="https://monkeytype.com/profile/gckneip">
