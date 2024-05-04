@@ -30,11 +30,10 @@
   <a href="https://discord.com/users/183691289655508993" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
-
 </div>
 
- <hr/>
- 
+<br/><br/>
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -42,43 +41,48 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,mysql,cs" /><br>
 </div>
 
-<br/>
+<br/><br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gckneip/gckneip/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
 </div>
 
+<br/><br/>
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
     <img width=390 margin-bottom=30px src="https://github-readme-stats-salesp07.vercel.app/api?username=gckneip&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
-<br/>
+    <br/>
+    <br/>
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gckneip&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<br/>
-<br/>
+    <br/>
+    <br/>
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gckneip&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
+
+<br/><br/>
+<hr/>
+<h2 align="center">👾 Leetcode 👾</h2>
+<br>
+<div align=center>
+    <img width=390 src="https://leetcard.jacoblin.cool/gckneip?theme=nord&font=Righteous&ext=activity" alt="streak stats"/>
+</div>
+
+<br/><br/>
 <hr/>
 <h2 align="center">🐒 MonkeyType 🐒</h2>
 <br>
 <div align=center>
     <a href="https://monkeytype.com/profile/gckneip">
         <img src="https://raw.githubusercontent.com/gckneip/gckneip/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
-     </a>
+    </a>
 </div>
 
-
 <br/><br/>
-
 <hr/>
-
 <div align=center>
     <h2>🐈‍⬛ The End! 🐈‍⬛</h2>
     <a href="https://www.youtube.com/watch?v=eeFbKDrLOUw">
